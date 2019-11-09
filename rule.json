@@ -1,0 +1,9 @@
+{
+    "single": {
+        "https://www.baidu.com/": {},
+        "https://www.qq.com/": {},
+        "https://www.ifeng.com/": {}
+    },
+    "TimeInterval": 3
+
+}
